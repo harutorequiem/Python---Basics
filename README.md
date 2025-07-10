@@ -25,6 +25,6 @@ Welcome to Python Basics!
 
 ## 📺 YouTube Link
 
-🎥 [](https://youtu.be/oqVpPd5ZhHo?si=aZpN0YDTS5aeLkda)
+🎥 https://youtu.be/oqVpPd5ZhHo?si=aZpN0YDTS5aeLkda
 
 ---
