@@ -23,8 +23,4 @@ I am learning Python: True
 I was born in: 2005
 Welcome to Python Basics!
 
-## 📺 YouTube Link
-
-🎥 https://youtu.be/oqVpPd5ZhHo?si=aZpN0YDTS5aeLkda
-
 ---
