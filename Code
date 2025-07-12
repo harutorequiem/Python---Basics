@@ -1,0 +1,19 @@
+print("Hello, Python!")
+
+name = "Haruto"
+print("My name is", name)
+
+age = 20
+print("My age is", age)
+
+height = 174.5
+print("My height is", height, "cm")
+
+is_learning = True
+print(" I am learning Python:", is_learning)
+
+year = 2025
+birth_year = year - age
+print("I was born in", birth_year)
+
+print("Welcome to Python programming!")
