@@ -8,7 +8,7 @@ I’m documenting everything as a student starting from zero.
 - `print()` — show output on screen  
 - Strings — text data inside quotes  
 - Integers — whole numbers (like 20)  
-- Floats — decimal numbers (like 173.5)  
+- Floats — decimal numbers (like 174.5)  
 - Booleans — True / False  
 - Variables — store and use data  
 - Math with variables (age → birth year)
@@ -16,11 +16,11 @@ I’m documenting everything as a student starting from zero.
 ## 🖥️ Output Sample
 
 Hello, Python!
-My name is: Haruto
-My age is: 20
-My height is: 173.5 cm
+My name is Haruto
+My age is 20
+My height is 174.5 cm
 I am learning Python: True
-I was born in: 2005
-Welcome to Python Basics!
+I was born in 2005
+Welcome to Python programming!
 
 ---
